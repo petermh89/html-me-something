@@ -1,0 +1,100 @@
+
+header{
+    overflow: hidden;
+}
+
+
+
+header .site_title{
+        font-weight:bold;
+        font-size: 35px;
+        font-family: 'Anton', sans-serif;
+        border: black 2px solid;
+        padding: 50px 400px 50px 400px;
+        /* margin: 50px; */
+        background-image: url(https://photos-2.dropbox.com/t/2/AAAMhefvY2L1UCguKwKsXUBRnERqGLRwMjEf8LLwGYgVag/12/677511758/png/32x32/1/_/1/2/road2.png/ENy77cUFGAUgBygH/nAEX4Hf-JZ1P3--Erinp97_2Wi-rKogpINza8DhrM7A?size=1600x1200&size_mode=3); 
+        background-repeat: no-repeat;
+        
+        
+         color: wheat;
+        
+}
+
+
+/* header .tags_123{
+    padding: 20px 400px 20px 400px;
+    border: black 1px solid;
+} */
+
+.Row
+{
+    display: table;
+    width: 100%; 
+    table-layout: fixed; 
+    /* border-spacing: 20px;  */
+    
+}
+.Column
+{
+    display: table-cell;
+    /* background-color: forestgreen;  */
+
+}
+
+.bloom{
+    background-color: green;
+}
+.chica{
+    background-color: lightblue;
+    
+}
+
+.sea{
+    background-color: palevioletred;
+}
+.eug{
+    background-color: lightgray;
+
+}
+
+.red{
+    background-color: firebrick;
+}
+
+.san{
+    background-color: lightsalmon;
+
+}
+.den{
+    background-color: darkblue;
+}
+.text_change{
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.about_me{
+    font-size: 30px;
+    ;
+    padding: 20px 350px 20px 350px;
+    font-family: 'Indie Flower', cursive;
+    background-color: lightgoldenrodyellow;
+    background-image: url(http://upload.wikimedia.org/wikipedia/commons/e/ec/Walker_Evans_Hitchhidkers_Vicksburg_%28vicinity%29_March_1936.jpg);
+    background-repeat: no-repeat;
+}
+
+.me_lab{
+    font-size: 20px;
+    
+    
+    
+}
+.img_back{
+    background-image: url();
+    background-repeat: no-repeat;
+    
+   
+}
+.threeclowns{
+     padding: 20px 280px 20px 280px;
+}
